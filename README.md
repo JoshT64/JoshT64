@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @JoshT64
+- 👋 Hi, I’m @Josh T
 - 👀 I’m interested in developing web apps
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Discord Josh#0038
+- 🌱 I’m currently learning React, Typescript, GraphQL & Next.JS
 
-<!---
-JoshT64/JoshT64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me: Discord: Josh#0038
+
+
