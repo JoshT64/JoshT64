@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Josh T
 - 👀 I’m interested in developing web apps
-- 
+  
 Current projects posted on Vercel:
 - Sample Portfolio Site: https://portfolio-site-josht64.vercel.app/
 - Clips on Repeat: https://clips-on-repeat.vercel.app/
