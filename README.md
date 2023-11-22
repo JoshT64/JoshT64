@@ -2,6 +2,8 @@
 
 I'm a passionate web developer with a focus on creating innovative web applications. Check out some of my current projects hosted on Vercel:
 
+- [Bull Bear Bot](https://bear-bull-bot.vercel.app/)
+
 - [Prison Break: Idle](https://prison-break-idle-josht64.vercel.app/)
 
 - [Sample Portfolio Site](https://portfolio-site-josht64.vercel.app/)
