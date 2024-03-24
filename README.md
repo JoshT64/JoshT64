@@ -2,6 +2,7 @@
 
 I'm a passionate web developer with a focus on creating innovative web applications. Check out some of my freelance / hobby projects.
 
+- [📊 Seipex Finance](https://www.seipex.fi/)
 - [💧 Suicune Crypto](https://suicune.dog/)
 - [📈 Bull Bear Bot](https://bear-bull-bot.vercel.app/)
 
