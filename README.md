@@ -1,4 +1,4 @@
-# Hi, I'm Josh T! 👋
+# Hi, I'm Josh ! 👋
 
 I'm a passionate web developer with a focus on creating innovative web applications. Check out some of my freelance / hobby projects.
 
