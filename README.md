@@ -4,6 +4,7 @@ I'm a passionate web developer with a focus on creating innovative web applicati
 
 **2024**
 - [📊 Token Launchpad](https://memes.seipex.fi/)
+- [📊 Decentralized Aggregator](https://apollo.seipex.fi/)
 - [📊 Seipex Finance](https://www.seipex.fi/)
 - [🎨 Patrice Bertin Art](https://patricebertin.com)
 - [💧 Suicune Crypto](https://suicune.dog/)
