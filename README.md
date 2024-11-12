@@ -14,7 +14,6 @@ I'm a passionate web developer with a focus on creating innovative web applicati
 - [🚨 Prison Break: Idle](https://prison-break-idle-josht64.vercel.app/)
   
 **2022**
-- [📝 Sample Portfolio Site](https://portfolio-site-josht64.vercel.app/)
 - [📰 Hacker News](https://hacker-news-project-sigma.vercel.app/)
 - [👾 Clips on Repeat](https://clips-on-repeat.vercel.app/)
 - [🎵 SoundCloud Compare](https://sound-cloud-compare-git-main-josht64.vercel.app/)
